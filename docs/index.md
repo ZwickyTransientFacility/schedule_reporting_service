@@ -5,7 +5,7 @@ This page provides basic documentation for the public schedule reporting service
 
 ## Purpose
 
-This service provides advanced notification of the planned observations for ZTF’s public surveys, enabling coordinated observing with other facilities.
+This service provides advanced notification of the planned observations for ZTF’s public surveys, enabling coordinated observing by other facilities.
 
 ## Location
 
