@@ -15,7 +15,7 @@ Typically the schedule will be available at 00:30 UTC.
 
 ## Format
 
-Planned observations are reported using fields recommended in the IVOA [ObsLocTAP](https://www.ivoa.net/documents/ObsLocTAP/index.html) standard (v1.0).
+Planned observations are reported using a format recommended in the IVOA [ObsLocTAP](https://www.ivoa.net/documents/ObsLocTAP/index.html) standard (v1.0).
 
 The IVOA recommendation calls for a queryable TAP service that is updated dynamically with the results of the observations.
 While we may implement such a service in the future, at this time we are providing a single static report of each night's observing plan for the public surveys.
